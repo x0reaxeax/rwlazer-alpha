@@ -1,4 +1,7 @@
+# THIS PROJECT HAS BEEN REWRITTEN AND REBRANDED AS [RWLAZER64](https://github.com/x0reaxeax/rwlazer64) 
+
 # RWLAZER x64 ALPHA
+
 ### DISCLAIMER
 ##### This is an alpha pre-release, meaning bugs are more than likely to be present.  
 ##### Since this tool can easily eff-up your computer, it is highly recommended to use it in a virtual environment, such as [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) 
